@@ -1,0 +1,56 @@
+{
+  "retrieve": {
+    "k": 5
+  },
+  "generate_answer": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "question": "For\u00e7as: Rede de transporte eficiente, tecnologia de rastreamento avan\u00e7ada. Fraquezas: Altos custos de manuten\u00e7\u00e3o, depend\u00eancia de combust\u00edveis f\u00f3sseis. Oportunidades: Ado\u00e7\u00e3o de ve\u00edculos el\u00e9tricos, crescimento do com\u00e9rcio eletr\u00f4nico. Amea\u00e7as: Flutua\u00e7\u00f5es nos pre\u00e7os dos combust\u00edveis, regulamenta\u00e7\u00f5es ambientais.",
+        "answer": "1. Reduzir os custos de manuten\u00e7\u00e3o: - Implementar um programa de manuten\u00e7\u00e3o preventiva - Reduzir os custos de manuten\u00e7\u00e3o em 15% 2. Adotar tecnologias sustent\u00e1veis: - Integrar 20% da frota com ve\u00edculos el\u00e9tricos - Reduzir a emiss\u00e3o de carbono em 25%"
+      },
+      {
+        "question": "For\u00e7as: Experi\u00eancia de mercado, rede de contatos global, pacotes tur\u00edsticos diversificados. Fraquezas: Alta depend\u00eancia de agentes de viagens, processos administrativos lentos. Oportunidades: Crescimento do turismo sustent\u00e1vel, aumento da demanda por experi\u00eancias personalizadas. Amea\u00e7as: Instabilidade econ\u00f4mica, eventos globais que afetam o turismo (pandemias, desastres naturais).",
+        "answer": "1. Melhorar a experi\u00eancia do cliente: - Aumentar a satisfa\u00e7\u00e3o do cliente em 20% - Implementar um novo sistema de atendimento ao cliente 2. Expandir ofertas de destinos: - Adicionar 15 novos destinos ao portf\u00f3lio - Estabelecer parcerias com 5 novas redes hoteleiras"
+      },
+      {
+        "question": "For\u00e7as: Tecnologia de ponta, equipe altamente qualificada, inova\u00e7\u00e3o cont\u00ednua. Fraquezas: Alto custo de desenvolvimento, depend\u00eancia de fornecedores espec\u00edficos. Oportunidades: Expans\u00e3o em mercados emergentes, aumento da demanda por solu\u00e7\u00f5es tecnol\u00f3gicas. Amea\u00e7as: Concorr\u00eancia acirrada, mudan\u00e7as r\u00e1pidas nas tecnologias.",
+        "answer": "1. Expandir a presen\u00e7a em mercados emergentes: - Aumentar as vendas em 20% nos mercados emergentes - Estabelecer parcerias estrat\u00e9gicas em pelo menos 3 novos pa\u00edses 2. Reduzir a depend\u00eancia de fornecedores espec\u00edficos: - Diversificar a base de fornecedores em 30% nos pr\u00f3ximos 6 meses - Implementar uma estrat\u00e9gia de sourcing alternativa"
+      },
+      {
+        "question": "For\u00e7as: Expertise em diversas \u00e1reas, forte reputa\u00e7\u00e3o no mercado. Fraquezas: Baixa presen\u00e7a digital, processos internos ineficientes. Oportunidades: Demanda crescente por consultoria estrat\u00e9gica, ado\u00e7\u00e3o de novas tecnologias. Amea\u00e7as: Concorr\u00eancia de grandes consultorias, press\u00f5es econ\u00f4micas.",
+        "answer": "1. Melhorar a presen\u00e7a digital: - Aumentar o tr\u00e1fego do site em 50% - Lan\u00e7ar uma campanha de marketing digital abrangente 2. Otimizar processos internos: - Reduzir o tempo de entrega de projetos em 20% - Implementar um novo sistema de gest\u00e3o de projetos"
+      },
+      {
+        "question": "For\u00e7as: Metodologia de ensino inovadora, corpo docente qualificado. Fraquezas: Falta de recursos tecnol\u00f3gicos, depend\u00eancia de financiamento p\u00fablico. Oportunidades: Crescimento da educa\u00e7\u00e3o online, parcerias com empresas de tecnologia. Amea\u00e7as: Concorr\u00eancia de institui\u00e7\u00f5es privadas, mudan\u00e7as nas pol\u00edticas educacionais.",
+        "answer": "1. Expandir a oferta de cursos online: - Desenvolver 10 novos cursos online - Aumentar a matr\u00edcula em cursos online em 40% 2. Melhorar a infraestrutura tecnol\u00f3gica: - Atualizar todos os laborat\u00f3rios de inform\u00e1tica - Implementar um novo sistema de gest\u00e3o de aprendizagem"
+      },
+      {
+        "question": "For\u00e7as: Servi\u00e7os m\u00e9dicos de alta qualidade, equipe m\u00e9dica experiente. Fraquezas: Infraestrutura antiga, alta rotatividade de pessoal. Oportunidades: Aumento da demanda por servi\u00e7os de sa\u00fade, parcerias com outras institui\u00e7\u00f5es. Amea\u00e7as: Regula\u00e7\u00f5es rigorosas, aumento dos custos operacionais.",
+        "answer": "1. Modernizar a infraestrutura: - Renovar 50% das instala\u00e7\u00f5es nos pr\u00f3ximos 12 meses - Implementar novas tecnologias em todos os centros de sa\u00fade 2. Reduzir a rotatividade de pessoal: - Aumentar a satisfa\u00e7\u00e3o dos funcion\u00e1rios em 30% - Implementar programas de reten\u00e7\u00e3o de talentos"
+      },
+      {
+        "question": "For\u00e7as: Marca bem estabelecida, produtos de alta qualidade. Fraquezas: Cadeia de suprimentos complexa, alta sensibilidade a pre\u00e7os. Oportunidades: Expans\u00e3o para novos mercados, aumento da demanda por alimentos saud\u00e1veis. Amea\u00e7as: Flutua\u00e7\u00f5es nos pre\u00e7os das mat\u00e9rias-primas, regulamenta\u00e7\u00f5es rigorosas.",
+        "answer": "1. Expandir para novos mercados geogr\u00e1ficos: - Aumentar a presen\u00e7a em 5 novos mercados - Estabelecer parcerias de distribui\u00e7\u00e3o em cada novo mercado 2. Aumentar a linha de produtos saud\u00e1veis: - Lan\u00e7ar 5 novos produtos saud\u00e1veis no pr\u00f3ximo ano - Atingir 20% das vendas totais com produtos saud\u00e1veis"
+      },
+      {
+        "question": "For\u00e7as: Marca reconhecida, ampla base de clientes, rede de distribui\u00e7\u00e3o robusta. Fraquezas: Depend\u00eancia do mercado interno, altos custos operacionais. Oportunidades: Crescimento do com\u00e9rcio eletr\u00f4nico, expans\u00e3o internacional. Amea\u00e7as: Mudan\u00e7as nas prefer\u00eancias dos consumidores, aumento da concorr\u00eancia online.",
+        "answer": "1. Aumentar a presen\u00e7a no com\u00e9rcio eletr\u00f4nico: - Crescer as vendas online em 25% no pr\u00f3ximo ano - Lan\u00e7ar uma plataforma de e-commerce aprimorada 2. Expandir opera\u00e7\u00f5es internacionais: - Abrir 10 novas lojas em pa\u00edses-alvo - Atingir 15% da receita total de mercados internacionais"
+      },
+      {
+        "question": "For\u00e7as: Marca reconhecida, design inovador, forte presen\u00e7a nas m\u00eddias sociais. Fraquezas: Depend\u00eancia de um n\u00famero limitado de fornecedores, altos custos de produ\u00e7\u00e3o. Oportunidades: Expans\u00e3o em mercados emergentes, crescimento da demanda por moda sustent\u00e1vel. Amea\u00e7as: Mudan\u00e7as nas tend\u00eancias de moda, aumento da concorr\u00eancia.",
+        "answer": "1. Aumentar a presen\u00e7a digital: - Crescer as vendas online em 30% - Lan\u00e7ar uma campanha de marketing digital global 2. Expandir a linha de produtos sustent\u00e1veis: - Lan\u00e7ar 10 novos produtos sustent\u00e1veis no pr\u00f3ximo ano - Atingir 25% das vendas totais com produtos sustent\u00e1veis"
+      },
+      {
+        "question": "For\u00e7as: Recursos naturais abundantes, tecnologia avan\u00e7ada de extra\u00e7\u00e3o. Fraquezas: Impacto ambiental, altos custos operacionais. Oportunidades: Investimentos em energia renov\u00e1vel, inova\u00e7\u00e3o tecnol\u00f3gica. Amea\u00e7as: Regulamenta\u00e7\u00f5es ambientais, flutua\u00e7\u00f5es nos pre\u00e7os de energia.",
+        "answer": "1. Aumentar o investimento em energia renov\u00e1vel: - Investir 20% do or\u00e7amento anual em projetos de energia renov\u00e1vel - Implementar 3 novos projetos de energia solar e e\u00f3lica 2. Reduzir o impacto ambiental das opera\u00e7\u00f5es: - Implementar 3 novos projetos de energia solar e e\u00f3lica - Reduzir o impacto ambiental das opera\u00e7\u00f5es em 30%"
+      }
+    ],
+    "signature_instructions": "Voc\u00ea \u00e9 um analista de projetos e processos de uma grande empresa de consultoria. \n       Sua tarefa \u00e9 gerar OKRs para o cliente a partir da an\u00e1lise SWOT.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "Voc\u00ea \u00e9 um analista de projetos e processos de uma grande empresa de consultoria. \n       Sua tarefa \u00e9 gerar OKRs para o cliente a partir da an\u00e1lise SWOT.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}
