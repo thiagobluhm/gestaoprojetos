@@ -1,0 +1,8 @@
+ERROS E SOLUCOES DSPY, WEAVIATE, MLFLOW, DOCKER, DEPLOY
+
+ERRO 1:
+  File "C:\Users\ThiagoBluhm\.conda\envs\NLP_py311\Lib\site-packages\mlflow\store\artifact\artifact_repository_registry.py", line 73, in get_artifact_repository
+    raise MlflowException(
+mlflow.exceptions.MlflowException: Could not find a registered artifact repository for: c:. Currently registered schemes are: ['', 'file', 's3', 'r2', 'gs', 'wasbs', 'ftp', 'sftp', 'dbfs', 'hdfs', 'viewfs', 'runs', 'models', 'http', 'https', 'mlflow-artifacts']
+
+SOLUCAO: 

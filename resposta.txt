@@ -1,0 +1,23 @@
+**Financeira:**
+- **O1: Aumentar a rentabilidade do negócio.**
+  - **O1KR1:** Aumentar o faturamento em 20% até o final de 2024.
+  - **O1KR2:** Reduzir os custos de produção em 10% até o final de 2024.
+  - **O1KR3:** Aumentar a margem de lucro líquido de X% para Y% até o final de 2024.
+
+**Clientes:**
+- **O2: Melhorar a experiência do cliente e aumentar a fidelização.**
+  - **O2KR1:** Atingir uma taxa de satisfação do cliente (NPS) de 90% até o final de 2024.
+  - **O2KR2:** Expandir o serviço de delivery para cobrir 100% da área de atuação até junho de 2024.
+  - **O2KR3:** Implementar um sistema de feedback do cliente e resolver 90% das reclamações em até 48 horas.
+
+**Processos:**
+- **O3: Otimizar os processos internos para aumentar a eficiência.**
+  - **O3KR1:** Reduzir o tempo de preparação e entrega dos pedidos em 20% até o final de 2024.
+  - **O3KR2:** Implementar um sistema de gestão de estoque para reduzir desperdícios em 15% até o final de 2024.
+  - **O3KR3:** Automatizar 50% dos processos de produção até o final de 2024.
+
+**Pessoas:**
+- **O4: Fortalecer a cultura organizacional e aumentar a satisfação dos colaboradores.**
+  - **O4KR1:** Aumentar a satisfação dos colaboradores de 75% para 90% até o final de 2024.
+  - **O4KR2:** Implementar um programa de desenvolvimento de carreira e treinamento para todos os colaboradores até o final de 2024.
+  - **O4KR3:** Reduzir a rotatividade de funcionários em 15% até o final de 2024.

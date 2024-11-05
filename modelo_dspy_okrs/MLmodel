@@ -1,0 +1,19 @@
+flavors:
+  python_function:
+    artifacts:
+      modelo_dspy_okrs:
+        path: artifacts\modelo_oportune_22062024_okr_cloud.pkl
+        uri: modelo_oportune_22062024_okr_cloud.pkl
+    cloudpickle_version: 3.0.0
+    code: null
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pyfunc.model
+    python_model: python_model.pkl
+    python_version: 3.11.8
+    streamable: false
+mlflow_version: 2.14.1
+model_size_bytes: 12755
+model_uuid: d4668f3e44894c5486d0cd3c095cb9eb
+utc_time_created: '2024-07-01 18:40:25.805788'

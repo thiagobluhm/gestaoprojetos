@@ -1,0 +1,18 @@
+*.png
+*.jpg
+*.pdf
+*.pptx
+*.docx
+__pychache__/
+.ipynb_checkpoints/
+docker_images/
+gestaoprojetos/
+local_cache/
+meu_projeto_ml/
+mlruns/
+model_dir/
+mdoelo_dspy_okrs/
+*.db
+*.py
+*.json
+RAG, VECTOR DATABASE e DSPY - OKRs-Copy1.ipynb
